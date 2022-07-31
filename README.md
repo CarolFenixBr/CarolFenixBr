@@ -1,12 +1,8 @@
-<div align="center">
+<div align="center"> 
 <img src="https://user-images.githubusercontent.com/89542446/182030249-d4967ccc-c2b6-4ef4-ab55-fdab76cf6d21.gif" height="230em" />
 </div>
 
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1050&lines=a+long+time+ago+in+a+galaxy+far+far+away✨;+My+name's+Caroline;Software+Engineering+Student👩🏻‍💻;Welcome!😊;+and+enjoy+a+long+and+prosperous+life🖖🏻;Always🦉🧹)](https://git.io/typing-svg)
-
 
 <div align="center">
   <a href="https://github.com/CarolFenixBr">
@@ -17,6 +13,7 @@
 
 </div>
 <p>
+
 <div align="center">
   <img align="center" alt="Carol-Js" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"target="_blank">
   <img align="center" alt="Carol-HTML" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"target="_blank">
