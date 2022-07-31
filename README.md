@@ -37,13 +37,14 @@
   <p align="center">
   <a href="https://www.buymeacoffee.com/CarolFenixBr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" target="_blank" ></a>
 </p>
+  <div align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480"target="_blank"/>
+</div>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>  
 
-<div align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480"target="_blank"/>
-</div>
+
 
 
 
