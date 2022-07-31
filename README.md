@@ -33,11 +33,7 @@
   <a href="https://www.linkedin.com/in/carolinevsc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" target="_blank">
     </p>    
   </a>  
-  <div align="center">
-  <img align="center" alt="Carol-Xbox" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" /> 
-   <img align="center" alt="Carol-PC" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> 
-    </p>   
-      
+        
    <div align="center">
   <a href="https://www.buymeacoffee.com/CarolFenixBr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="200px" target="_blank" ></a>
   <a href="https://app.picpay.com/user/carv.cod/" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" height="50px width="200px" target="_blank" ></a>
