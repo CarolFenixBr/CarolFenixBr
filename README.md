@@ -32,8 +32,7 @@
   <a href = "mailto:carolinevsc09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolinevsc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </p>    
-  </a>
-  
+  </a>  
   <div align="center">
   <img align="center" alt="Carol-Xbox" src="https://img.shields.io/badge/Xbox-CarolFenixBr?style=for-the-badge&logo=xbox&logoColor=white" /> 
    <img align="center" alt="Carol-PC" src="https://img.shields.io/badge/Steam-122502170?style=for-the-badge&logo=steam&logoColor=white" /> 
@@ -47,8 +46,8 @@
 </div>
 
 <div align="center">
-  <img align="center" alt="Carol-social" src="https://img.shields.io/github/followers/CarolFenixBr.svg?style=social&label=Follow&maxAge=2592000" /> 
-   <img align="center" alt="Carol-social" src="https://img.shields.io/github/watchers/CarolFenixBr/CarolFenixBr.svg" /> 
+  <img align="center" alt="Carol-social" height="22" src="https://img.shields.io/github/followers/CarolFenixBr.svg?style=social&label=Follow&maxAge=2592000" /> 
+   <img align="center" alt="Carol-social" height="22" src="https://img.shields.io/github/watchers/CarolFenixBr/CarolFenixBr.svg" /> 
     </p>  
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
