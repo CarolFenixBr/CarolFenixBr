@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/89542446/182030249-d4967ccc-c2b6-4ef4-ab55-fdab76cf6d21.gif" height="250em" />
+<img src="https://user-images.githubusercontent.com/89542446/182030249-d4967ccc-c2b6-4ef4-ab55-fdab76cf6d21.gif" height="230em" />
 </div>
 
 
@@ -16,7 +16,8 @@
 </div>
 
 </div>
-<div style="display: inline_block"><br>
+<p>
+<div align="center">
   <img align="center" alt="Carol-Js" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-HTML" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carol-CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,8 +31,11 @@
 </div>
   
 <div>
+<p>
+<div align="center">
   <a href = "mailto:carolinevsc09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolinevsc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </p>
   
   <p align="center">
   <a href="https://www.buymeacoffee.com/CarolFenixBr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
