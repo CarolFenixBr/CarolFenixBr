@@ -18,8 +18,11 @@
   <img align="center" alt="Carol-CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"target="_blank">
   <img align="center" alt="Carol-Python" height="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"target="_blank">
    <img align="center" alt="Carol-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"target="_blank">
+   <img align="center" alt="Carol-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+   <img align="center" alt="Carol-NET" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Carol-Canvas" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" target="_blank"/>
   <img align="center" alt="Carol-Vscode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" target="_blank"/>
+  <img align="center" alt="Carol-Pycharm" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 </div>
 <p>  
   </a>
@@ -30,7 +33,7 @@
 <p>
 <div align="center">
   <a href = "mailto:carolinevsc09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="30" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carolinevsc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" target="_blank">
+  <a href="https://www.linkedin.com/in/carolinevsc" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ height="30" >
     </p>    
   </a>  
         
