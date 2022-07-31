@@ -18,13 +18,13 @@
 </div>
 <p>
 <div align="center">
-  <img align="center" alt="Carol-Js" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carol-HTML" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carol-CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carol-Python" height="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Carol-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Carol-Canvas" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="center" alt="Carol-Vscode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Carol-Js" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"target="_blank">
+  <img align="center" alt="Carol-HTML" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"target="_blank">
+  <img align="center" alt="Carol-CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"target="_blank">
+  <img align="center" alt="Carol-Python" height="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"target="_blank">
+   <img align="center" alt="Carol-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"target="_blank">
+  <img align="center" alt="Carol-Canvas" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" target="_blank"/>
+  <img align="center" alt="Carol-Vscode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" target="_blank"/>
 </div>
 <p>  
   </a>
@@ -38,14 +38,14 @@
   </p>
   
   <p align="center">
-  <a href="https://www.buymeacoffee.com/CarolFenixBr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+  <a href="https://www.buymeacoffee.com/CarolFenixBr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" target="_blank" ></a>
 </p>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>  
 
 <div align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480"target="_blank"/>
 </div>
 
 
