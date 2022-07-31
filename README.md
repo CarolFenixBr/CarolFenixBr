@@ -24,13 +24,13 @@
 <p>  
   </a>
   <div align="center">
-  <img align="center" alt="Carol-conf" src="https://img.shields.io/badge/AMD-Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" target="_blank"/>
-  <img align="center" alt="Carol-conf" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"/>
+  <img align="center" alt="Carol-conf" src="https://img.shields.io/badge/AMD-Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="30" target="_blank"/>
+  <img align="center" alt="Carol-conf" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" target="_blank"/>
   
 <p>
 <div align="center">
-  <a href = "mailto:carolinevsc09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carolinevsc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href = "mailto:carolinevsc09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="30" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carolinevsc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" target="_blank">
     </p>    
   </a>  
   <div align="center">
