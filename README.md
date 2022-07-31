@@ -34,12 +34,13 @@
     </p>    
   </a>  
   <div align="center">
-  <img align="center" alt="Carol-Xbox" src="https://img.shields.io/badge/Xbox-CarolFenixBr?style=for-the-badge&logo=xbox&logoColor=white" /> 
-   <img align="center" alt="Carol-PC" src="https://img.shields.io/badge/Steam-122502170?style=for-the-badge&logo=steam&logoColor=white" /> 
+  <img align="center" alt="Carol-Xbox" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" /> 
+   <img align="center" alt="Carol-PC" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> 
     </p>   
       
    <div align="center">
-  <a href="https://www.buymeacoffee.com/CarolFenixBr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" target="_blank" ></a>
+  <a href="https://www.buymeacoffee.com/CarolFenixBr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="200px" target="_blank" ></a>
+  <a href="https://app.picpay.com/user/carv.med/" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" height="50px width="200px" target="_blank" ></a>
 </p>
   <div align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480"target="_blank"/>
