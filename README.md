@@ -40,7 +40,7 @@
       
    <div align="center">
   <a href="https://www.buymeacoffee.com/CarolFenixBr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="200px" target="_blank" ></a>
-  <a href="https://app.picpay.com/user/carv.med/" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" height="50px width="200px" target="_blank" ></a>
+  <a href="https://app.picpay.com/user/carv.cod/" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" height="50px width="200px" target="_blank" ></a>
 </p>
   <div align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480"target="_blank"/>
