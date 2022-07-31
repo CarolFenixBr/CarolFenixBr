@@ -48,8 +48,7 @@
 <div align="center">
   <img align="center" alt="Carol-social" height="22" src="https://img.shields.io/github/followers/CarolFenixBr.svg?style=social&label=Follow&maxAge=2592000" /> 
    <img align="center" alt="Carol-social" height="22" src="https://img.shields.io/github/watchers/CarolFenixBr/CarolFenixBr.svg" /> 
-    </p>  
-  
+     
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
