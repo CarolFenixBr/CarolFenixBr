@@ -11,9 +11,7 @@
   </a>
 </div>
 
-</div>
 <p>
-
 <div align="center">
   <img align="center" alt="Carol-Js" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"target="_blank">
   <img align="center" alt="Carol-HTML" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"target="_blank">
@@ -25,9 +23,7 @@
 </div>
 <p>  
   </a>
-</div>
   
-<div>
 <p>
 <div align="center">
   <a href = "mailto:carolinevsc09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -42,7 +38,7 @@
 </div>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>  
+
 
 
 
