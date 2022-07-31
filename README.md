@@ -1,4 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Caroline Vargas&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/89542446/182030249-d4967ccc-c2b6-4ef4-ab55-fdab76cf6d21.gif" height="250em" />
+</div>
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1050&lines=a+long+time+ago+in+a+galaxy+far+far+away✨;+My+name's+Caroline;Software+Engineering+Student👩🏻‍💻;Welcome!😊;+and+enjoy+a+long+and+prosperous+life🖖🏻;Always🦉🧹)](https://git.io/typing-svg)
 
@@ -29,6 +34,10 @@
   <a href = "mailto:carolinevsc09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolinevsc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   
+  <p align="center">
+  <a href="https://www.buymeacoffee.com/kakacordovil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+</p>
+  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
   
@@ -36,6 +45,12 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarolFenixBr}/count.svg" /></p> 
 <br></div>
+
+<div align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480"/>
+</div>
+
+
+
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
