@@ -39,7 +39,7 @@
   <a href="https://app.picpay.com/user/carv.cod/" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" height="50px width="200px" target="_blank" ></a>
 </p>
   <div align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480"target="_blank"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="230em" target="_blank"/>
 </div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
