@@ -42,10 +42,7 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480"target="_blank"/>
 </div>
 
-<div align="center">
-  <img align="center" alt="Carol-social" height="22" src="https://img.shields.io/github/followers/CarolFenixBr.svg?style=social&label=Follow&maxAge=2592000" />    
-       
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 
