@@ -24,12 +24,12 @@
   <img align="center" alt="Carol-Vscode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" target="_blank"/>
   <img align="center" alt="Carol-Pycharm" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 </div>
-<p>  
+
+<p>
   </a>
   <div align="center">
   <img align="center" alt="Carol-conf" src="https://img.shields.io/badge/AMD-Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="30" target="_blank"/>
-  <img align="center" alt="Carol-conf" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" target="_blank"/>
-  
+  <img align="center" alt="Carol-conf" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" target="_blank"/>  
 <p>
 <div align="center">
   <a href = "mailto:carolinevsc09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="30" target="_blank"></a>
@@ -41,6 +41,7 @@
   <a href="https://www.buymeacoffee.com/CarolFenixBr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="200px" target="_blank" ></a>
   <a href="https://app.picpay.com/user/carv.cod/" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" height="50px width="200px" target="_blank" ></a>
 </p>
+
   <div align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="280em" target="_blank"/>
 </div>
