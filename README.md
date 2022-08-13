@@ -20,8 +20,7 @@
   <img align="center" alt="Carol-C" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align="center" alt="Carol-CPP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Carol-Csharp" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"target="_blank">
-   <img align="center" alt="Carol-NET" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="Carol-Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img align="center" alt="Carol-Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Carol-Canvas" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" target="_blank"/>  
 </div>
 
