@@ -1,6 +1,6 @@
 ![Pink Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/89542446/184523508-d720f8fa-c1c0-48d6-ad9d-ec4afb32df87.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=169c7b&size=35&center=true&vCenter=true&width=1050&lines=a+long+time+ago+in+a+galaxy+far+far+away✨;+My+name's+Caroline;Software+Engineering+Student👩🏻‍💻;Welcome!😊;+and+enjoy+a+long+and+prosperous+life🖖🏻;Always🦉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=169c7b&size=42&center=true&vCenter=true&width=1150&lines=a+long+time+ago+in+a+galaxy+far+far+away✨;+My+name's+Caroline;Software+Engineering+Student👩🏻‍💻;Welcome!😊;+and+enjoy+a+long+and+prosperous+life🖖🏻;Always🦉)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/CarolFenixBr">
