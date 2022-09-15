@@ -10,15 +10,16 @@
 </div>
 <p>
 <div align="center">
-  <img align="center" alt="Carol-Js" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"target="_blank">
-  <img align="center" alt="Carol-HTML" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"target="_blank">
-  <img align="center" alt="Carol-CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"target="_blank">
-  <img align="center" alt="Carol-Python" height="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"target="_blank">
-  <img align="center" alt="Carol-C" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img align="center" alt="Carol-CPP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Carol-Csharp" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"target="_blank">
-   <img align="center" alt="Carol-Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Carol-Canvas" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" target="_blank"/>  
+  <img align="center" alt="Carol-Js" height="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"target="_blank">
+  <img align="center" alt="Carol-HTML" height="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"target="_blank">
+  <img align="center" alt="Carol-CSS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"target="_blank">
+  <img align="center" alt="Carol-Python" height="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"target="_blank">
+  <img align="center" alt="Carol-C" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img align="center" alt="Carol-CPP" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Carol-Csharp" height="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"target="_blank">
+  <img align="center" alt="Carol-MySQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />          
+   <img align="center" alt="Carol-Java" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Carol-Canvas" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" target="_blank"/>  
 </div>
 
 <p>
