@@ -5,7 +5,7 @@
 <div align="center">
 <img width="530em" src= "https://github-readme-stats.vercel.app/api?username=CarolFenixBr&theme=gotham&include_all_commits=true&count_private=true"/>
 
-<img width="370em" height="210em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=CarolFenixBr&langs_count=10&layout=compact&theme=gotham"/>
+<img height="210em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=CarolFenixBr&langs_count=10&layout=compact&theme=gotham"/>
 </div>
 
 
