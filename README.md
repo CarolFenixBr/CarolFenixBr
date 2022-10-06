@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=169c7b&size=42&center=true&vCenter=true&width=1150&lines=a+long+time+ago+in+a+galaxy+far+far+away✨;+My+name's+Caroline;Software+Engineering+Student👩🏻‍💻;Welcome!😊;+and+enjoy+a+long+and+prosperous+life🖖🏻;Always🦉)](https://git.io/typing-svg)
 
 <div align="center">
-<img height="230em" src= "https://github-readme-stats.vercel.app/api?username=CarolFenixBr&theme=gotham&include_all_commits=true&count_private=true"/>
+<img height="200em" src= "https://github-readme-stats.vercel.app/api?username=CarolFenixBr&theme=gotham&include_all_commits=true&count_private=true"/>
 
-<img height="230em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=CarolFenixBr&langs_count=11&layout=compact&theme=gotham"/>
+<img height="200em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=CarolFenixBr&langs_count=10&layout=compact&theme=gotham"/>
 </div>
 
 
