@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=169c7b&size=42&center=true&vCenter=true&width=1150&lines=a+long+time+ago+in+a+galaxy+far+far+away✨;+My+name's+Caroline;Software+Engineering+Student👩🏻‍💻;Welcome!😊;+and+enjoy+a+long+and+prosperous+life🖖🏻;Always🦉)](https://git.io/typing-svg)
 
-![Carol GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolFenixBr&theme=gotham_icons=true)
+![Carol GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolFenixBr&theme=dark_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolFenixBr&langs_count=8)](https://github.com/CarolFenixBr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolFenixBr&langs_count=8)](https://github.com/CarolFenixBr&theme=gotham/github-readme-stats)
 
 
 <p>
