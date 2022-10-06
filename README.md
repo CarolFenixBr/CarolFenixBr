@@ -4,6 +4,9 @@
 
 ![Carol GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolFenixBr&theme=gotham_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolFenixBr&langs_count=8)](https://github.com/CarolFenixBr/github-readme-stats)
+
+
 <p>
 <div align="center">
   <img align="center" alt="Carol-Js" height="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"target="_blank">
