@@ -4,8 +4,7 @@
 
 <div align="center">
 
-![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolFenixBr&show_icons=true&text_bold&theme=gotham)
-<img height="195em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=CarolFenixBr&langs_count=10&layout=compact&theme=gotham"/>
+
 
 
 
