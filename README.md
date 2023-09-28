@@ -27,7 +27,7 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="280em" target="_blank"/>
 </div>
 
-![Snake animation](https://github.com/CarolFenixBr/CarolFenixBr/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
