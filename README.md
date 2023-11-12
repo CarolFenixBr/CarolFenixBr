@@ -1,5 +1,4 @@
 ![Pink Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/89542446/197632987-fcdd9807-d04c-416a-a150-2f0397037cc3.gif)
-
 <br>  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=169c7b&size=42&center=true&vCenter=true&width=1150&lines=a+long+time+ago+in+a+galaxy+far+far+away✨;+My+name's+Caroline;Software+Engineering+Student👩🏻‍💻;Welcome!😊;+and+enjoy+a+long+and+prosperous+life🖖🏻;Always🦉)](https://git.io/typing-svg)
@@ -14,18 +13,18 @@
     </a>  
     <br><br>
     <div align="center">
-  <a href="https://github.com/CarolFenixBr">      
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolFenixBr&show_icons=true&theme=gotham"/>     
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=CarolFenixBr&layout=compact&langs_count=8&card_width=320&theme=gotham" />
-  </a> 
-  </div>          
+      <a href="https://github.com/CarolFenixBr">      
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolFenixBr&show_icons=true&theme=gotham"/>     
+        <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=CarolFenixBr&layout=compact&langs_count=8&card_width=320&theme=gotham" />
+      </a> 
+    </div>          
   <br><br>
-  <div>
-  <a href="https://www.buymeacoffee.com/CarolFenixBr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="200px" target="_blank" ></a>  
-  <a href="https://app.picpay.com/user/rhanerys/" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" height="50px width="200px" target="_blank" ></a>
-  </div>
+    <div>
+      <a href="https://www.buymeacoffee.com/CarolFenixBr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="200px" target="_blank" ></a>  
+      <a href="https://app.picpay.com/user/rhanerys/" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" height="50px width="200px" target="_blank" ></a>
+    </div>
     <br>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="400px" target="_blank"/>
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="400px" target="_blank"/>
   
 </div>
 
