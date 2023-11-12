@@ -11,23 +11,20 @@
    
   <br> 
     <a href="https://www.linkedin.com/in/carolinevsc" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ height="30" >     
-    </a>  <br>
+    </a>  
+    <br><br>
     <div align="center">
   <a href="https://github.com/CarolFenixBr">      
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolFenixBr&show_icons=true&theme=gotham"/>     
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=CarolFenixBr&layout=compact&langs_count=8&card_width=320&theme=gotham" />
-  </a>   
-  
-  </div>
-  
-
-          
-  <br>
-  <a href="https://www.buymeacoffee.com/CarolFenixBr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="200px" target="_blank" ></a>
+  </a> 
+  </div>          
   <br><br>
+  <div>
+  <a href="https://www.buymeacoffee.com/CarolFenixBr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="200px" target="_blank" ></a>  
   <a href="https://app.picpay.com/user/rhanerys/" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" height="50px width="200px" target="_blank" ></a>
-  <br><br>
-    
+  </div>
+    <br>
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="400px" target="_blank"/>
   
 </div>
