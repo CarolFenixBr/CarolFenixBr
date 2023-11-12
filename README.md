@@ -12,6 +12,13 @@
   <br> 
     <a href="https://www.linkedin.com/in/carolinevsc" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ height="30" >     
     </a>  <br>
+    <div align="center">
+  <a href="https://github.com/CarolFenixBr">   
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolFenixBr&theme=gotham&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+  
+
           
   <br>
   <a href="https://www.buymeacoffee.com/CarolFenixBr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="200px" target="_blank" ></a>
