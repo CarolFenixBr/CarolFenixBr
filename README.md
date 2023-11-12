@@ -13,10 +13,12 @@
     <a href="https://www.linkedin.com/in/carolinevsc" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ height="30" >     
     </a>  <br>
     <div align="center">
-  <a href="https://github.com/CarolFenixBr">   
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolFenixBr&theme=gotham&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+  <a href="https://github.com/CarolFenixBr">      
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolFenixBr&show_icons=true&theme=gotham"/>     
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=CarolFenixBr&layout=compact&langs_count=8&card_width=320&theme=gotham" />
+  </a>   
+  
+  </div>
   
 
           
