@@ -9,7 +9,7 @@
    <img align="center" alt="Carol-conf" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" target="_blank"/> 
    
   <br> 
-    <a href="https://www.linkedin.com/in/carolinevsc" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ height="30" >     
+    <a href="https://www.linkedin.com/in/carolinevsc" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" target="_blank">     
     </a>  
     <br><br>
     <div align="center">
