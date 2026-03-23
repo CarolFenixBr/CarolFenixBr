@@ -1,5 +1,6 @@
 
-![Pink Blue Geometric Technology LinkedIn Banner]()
+![Pink Blue Geometric Technology LinkedIn Banner](<img width="1584" height="396" alt="Branco e Cinza Moderno  Banner Profissional Tecnologia para LinkedIn" src="https://github.com/user-attachments/assets/56e6d0e9-a91e-4a8b-b05a-b3d2c54db436" />
+)
 <br>  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=169c7b&size=42&center=true&vCenter=true&width=1150&lines=a+long+time+ago+in+a+galaxy+far+far+away✨;+My+name's+Caroline;Software+Engineering+and+Project+Manager👩🏻‍💻;Welcome!😊;+and+enjoy+a+long+and+prosperous+life🖖🏻;Always🦉)](https://git.io/typing-svg)
