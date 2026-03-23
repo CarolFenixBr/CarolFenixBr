@@ -1,5 +1,5 @@
 
-![Pink Blue Geometric Technology LinkedIn Banner](https://github.com/CarolFenixBr/CarolFenixBr/assets/89542446/88796043-0ffe-4770-8abc-070f09d532dc)
+![Pink Blue Geometric Technology LinkedIn Banner]()
 <br>  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=169c7b&size=42&center=true&vCenter=true&width=1150&lines=a+long+time+ago+in+a+galaxy+far+far+away✨;+My+name's+Caroline;Software+Engineering+Student👩🏻‍💻;Welcome!😊;+and+enjoy+a+long+and+prosperous+life🖖🏻;Always🦉)](https://git.io/typing-svg)
