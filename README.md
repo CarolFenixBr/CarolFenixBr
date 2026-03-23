@@ -1,5 +1,5 @@
 
-![Pink Blue Geometric Technology LinkedIn Banner](<img width="1584" height="396" alt="Branco e Cinza Moderno  Banner Profissional Tecnologia para LinkedIn" src="https://github.com/user-attachments/assets/ee30412a-dee6-4833-9bfc-23844396a24c" />
+![Pink Blue Geometric Technology LinkedIn Banner]([<img width="1584" height="396" alt="Branco e Cinza Moderno  Banner Profissional Tecnologia para LinkedIn" src="https://github.com/user-attachments/assets/ee30412a-dee6-4833-9bfc-23844396a24c" />](https://media.licdn.com/dms/image/v2/D4D16AQHdA9NxoMmKWw/profile-displaybackgroundimage-shrink_350_1400/B4DZ0b6.NDKoAY-/0/1774289937838?e=1775692800&v=beta&t=uvTXn5MFpUaImvXeHgSg0Yxx3tSKBe99uA2NRF_w7O4)
 
 )
 <br>  
