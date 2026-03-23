@@ -2,7 +2,7 @@
 ![Pink Blue Geometric Technology LinkedIn Banner]()
 <br>  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=169c7b&size=42&center=true&vCenter=true&width=1150&lines=a+long+time+ago+in+a+galaxy+far+far+away✨;+My+name's+Caroline;Software+Engineering+Student👩🏻‍💻;Welcome!😊;+and+enjoy+a+long+and+prosperous+life🖖🏻;Always🦉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=169c7b&size=42&center=true&vCenter=true&width=1150&lines=a+long+time+ago+in+a+galaxy+far+far+away✨;+My+name's+Caroline;Software+Engineering+and+Project+Manager👩🏻‍💻;Welcome!😊;+and+enjoy+a+long+and+prosperous+life🖖🏻;Always🦉)](https://git.io/typing-svg)
 
 <div align="center">  
   <img align="center" alt="Carol-conf" src="https://img.shields.io/badge/AMD-Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="30" target="_blank"/>
