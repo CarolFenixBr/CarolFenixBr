@@ -1,7 +1,6 @@
 <img width="1584" height="396" alt="Branco e Cinza Moderno  Banner Profissional Tecnologia para LinkedIn" src="https://github.com/user-attachments/assets/d2c76452-371c-4762-92b7-755040ad250e" />
 
 
-
 <br>  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=169c7b&size=42&center=true&vCenter=true&width=1150&lines=a+long+time+ago+in+a+galaxy+far+far+away✨;+My+name's+Caroline;Software+Engineer+and+Project+Manager👩🏻‍💻;Welcome!😊;+and+enjoy+a+long+and+prosperous+life🖖🏻;Always🦉)](https://git.io/typing-svg)
