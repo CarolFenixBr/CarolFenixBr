@@ -21,7 +21,7 @@
       </a> 
     </div>          
   <br><br>
-    
+  <div>
     <br>
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="400px" target="_blank"/>
   
