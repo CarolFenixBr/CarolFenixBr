@@ -1,6 +1,5 @@
+<img width="1584" height="396" alt="Branco e Cinza Moderno  Banner Profissional Tecnologia para LinkedIn" src="https://github.com/user-attachments/assets/d2c76452-371c-4762-92b7-755040ad250e" />
 
-
-<img width="4950" height="1238" alt="Branco e Cinza Moderno  Banner Profissional Tecnologia para LinkedIn (5)" src="https://github.com/user-attachments/assets/7712e378-69e4-49ad-a15c-790ecf9c84dd" />
 
 
 <br>  
